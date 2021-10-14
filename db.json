@@ -1,0 +1,72 @@
+{
+  "houses": [
+    {
+      "name": "Na drzewie",
+      "value": 0.75,
+      "type": "houses",
+      "id": 1
+    },
+    {
+      "name": "Na ziemi",
+      "value": 0.5,
+      "type": "houses",
+      "id": 2
+    },
+    {
+      "name": "Na wodzie",
+      "value": 1,
+      "type": "houses",
+      "id": 3
+    }
+  ],
+  "animals": [
+    {
+      "name": "Koty",
+      "value": 200,
+      "type": "animals",
+      "id": 1
+    },
+    {
+      "name": "Psy",
+      "value": 250,
+      "type": "animals",
+      "id": 2
+    },
+    {
+      "name": "Konie",
+      "value": 2000,
+      "type": "animals",
+      "id": 3
+    },
+    {
+      "name": "Ptaki",
+      "value": 500,
+      "type": "animals",
+      "id": 4
+    },
+    {
+      "name": "Jeże",
+      "value": 100,
+      "type": "animals",
+      "id": 5
+    },
+    {
+      "name": "Króliki",
+      "value": 100,
+      "type": "animals",
+      "id": 6
+    },
+    {
+      "name": "Kury",
+      "value": 200,
+      "type": "animals",
+      "id": 7
+    },
+    {
+      "name": "Lwy",
+      "value": 2000,
+      "type": "animals",
+      "id": 8
+    }
+  ]
+}
